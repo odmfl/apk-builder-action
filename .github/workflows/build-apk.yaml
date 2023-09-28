@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/madushan1000/LDialer"
+        default: "https://gitlab.com/mudlej_android/mj_pdf_reader"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
