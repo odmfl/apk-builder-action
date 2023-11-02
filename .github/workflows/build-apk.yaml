@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/HarshPanchal18/sav-pdf-viewer-pro"
+        default: "https://github.com/Lesmm/AndroidPdfViewer/tree/develop"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
