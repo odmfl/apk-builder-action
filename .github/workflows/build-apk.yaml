@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/MrSluffy/android_packages_apps_Trebuchet"
+        default: "https://github.com/MrSluffy/trebuchet-standalone"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
