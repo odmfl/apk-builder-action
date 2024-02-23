@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/BlackyHawky/New-Clock"
+        default: "https://github.com/crdroidandroid/android_packages_apps_DeskClock"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
