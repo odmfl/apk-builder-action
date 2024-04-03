@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/ogungezer/Samsung_Calculator_Clone"
+        default: "https://github.com/wosys/AOSP_Dialer_AS"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
