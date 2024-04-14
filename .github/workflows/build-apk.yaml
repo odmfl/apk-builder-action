@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/Only-App/Cool_Time"
+        default: "https://github.com/w41eed/noNotify"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
