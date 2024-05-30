@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/FossifyOrg/Gallery"
+        default: "https://github.com/KnIfER/PDFium-Android-Demo"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
