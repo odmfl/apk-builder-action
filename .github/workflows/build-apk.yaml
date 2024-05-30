@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/jackyhieu1211/PdfiumAndroidModule"
+        default: "https://github.com/paperrose/PdfiumAndroidViewer"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
