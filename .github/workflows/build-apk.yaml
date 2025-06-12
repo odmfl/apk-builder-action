@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/akshaykalola28/AndroidX-PDF-Viewer"
+        default: "https://github.com/dekzitfz/PDFViewerFragmentExample"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
