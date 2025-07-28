@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/Launcher3-dev/Launcher3"
+        default: "https://github.com/aldagram/AndroidPdfViewer"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
