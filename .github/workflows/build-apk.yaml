@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/Yahoo-Mike/simplereader"
+        default: "https://github.com/vprasadkot/PDFReader-APP"
       subdir:
         description: "Relative subdirectory path if the project is nested"
         required: false
