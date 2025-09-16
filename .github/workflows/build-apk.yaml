@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/Sellnhos/PdfViewerPro"
+        default: "https://github.com/treakj/pdf_reader_android"
       subdir:
         description: "Relative subdirectory path if the project is nested"
         required: false
