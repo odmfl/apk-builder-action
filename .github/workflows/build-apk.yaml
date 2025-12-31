@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/treakj/pdf_reader_android"
+        default: "https://github.com/OztheWoz/platform_packages_apps_Dialer"
       subdir:
         description: "Relative subdirectory path if the project is nested"
         required: false
