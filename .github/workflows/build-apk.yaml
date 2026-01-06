@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/KennyChaos7/AndroidPdfViewer"
+        default: "https://github.com/mo7amd89/ComposePdfViewer"
       branchName:
         description: "Git branch name [Optional]"
         required: false
