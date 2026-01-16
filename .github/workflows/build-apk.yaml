@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/RadaeePDF-Jugaad/RadaeePDF-Master-Android"
+        default: "https://github.com/dshatz/pdfmp"
       branchName:
         description: "Git branch name [Optional]"
         required: false
