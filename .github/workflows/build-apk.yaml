@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/dshatz/pdfmp"
+        default: "https://github.com/mdakashhossain1/android-pdf-viewer"
       branchName:
         description: "Git branch name [Optional]"
         required: false
